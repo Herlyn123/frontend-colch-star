@@ -1,8 +1,6 @@
-# React + Vite
+Frontend – Colch-Star 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este proyecto corresponde al frontend de Colch-Star, un software real desarrollado en equipo como parte de nuestro proyecto de grado.
+Es la parte encargada de la interfaz gráfica, donde los usuarios pueden interactuar con el sistema de manera sencilla y visual. 
+Desde el frontend se gestionan procesos como clientes, proveedores, usuarios y roles, además de la visualización de productos y pedidos de la tienda en línea.
+El objetivo principal es ofrecer una experiencia amigable, clara y funcional para que tanto administradores como clientes puedan usar el sistema sin dificultad.
