@@ -1,0 +1,89 @@
+/* .buscador {
+    padding: 0;
+    margin: 0;
+
+    margin-right: -650px;
+}
+
+.ap {
+    padding: 0;
+    margin: 0;
+    margin-left: -650px;
+} */
+
+#identificacionGuardar {
+    width: 380px;
+    float: right;
+
+}
+
+#identificacionEditar {
+    width: 380px;
+    float: right;
+
+}
+
+.atras {
+
+    margin-left: 50px;
+
+}
+
+.customer {
+    width: 130%; /* Cambiado a un porcentaje para ser más flexible */
+    max-width: 380px;
+    margin-top: 5px; 
+}
+
+.customerr {
+    margin-top: 1.5%; /* Utilizando porcentaje para el margen superior */
+}
+
+.bottonDiseno {
+    margin-right: 34%; /* Utilizando porcentaje para el margen derecho */
+}
+
+/* .h3container{
+    border: 1px solid black;
+    margin-bottom: 10px;
+    width: 170px;
+} */
+
+
+.diseñosModalTitle{
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 7px;
+}
+
+
+
+.taa{
+    width: 120%;
+    right: 10%;
+}
+
+
+.disenocontainer {
+    /* display: flex;  */
+    align-items: center; /* Centra verticalmente los elementos dentro del contenedor */
+}
+
+.disenonombre {
+    margin-right: 10px;
+    margin-top: 5%;
+    font-weight: 500;
+}
+
+.logoimg {
+    cursor: pointer;
+    display: inline-block; 
+    width: 20px;
+}
+
+
+
+
+
+
